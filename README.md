@@ -39,6 +39,6 @@ Search engine optimization (SEO) to increase visibility.
 
 <hr>Tools & Technologies:<hr>
 
-Frontend: HTML, CSS, JavaScript (or frameworks like React/Vue)
+Frontend: HTML, CSS, JavaScript (or frameworks like saas)
 
 <hr>Deployment:<hr> GitHub 
