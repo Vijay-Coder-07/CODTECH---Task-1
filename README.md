@@ -1,8 +1,8 @@
-Name: VIJAY R
-Company: CODTECH IT SOLUTIONS
-ID: CTO8DS8229
-Domain: FRONT WEB DEVELOPMENT
-Duration: SEPTEMBER 20th, 2024 to OCTOBER 20th, 2024.
+Name: VIJAY R <br>
+Company: CODTECH IT SOLUTIONS<br>
+ID: CTO8DS8229<br>
+Domain: FRONT WEB DEVELOPMENT<br>
+Duration: SEPTEMBER 20th, 2024 to OCTOBER 20th, 2024.<br>
 
 Overview of the Project <br>
 roject Overview: Personal Portfolio 
